@@ -219,7 +219,7 @@ Dashboard Screenshots/Executive Dashboard.png
 
 
 ### Compensation Dashboard
-![Compensation Dashboard](Dashboard%20Screenshots/Compensation_Dashboard.png)
+Dashboard Screenshots/Salary and Compensation Dashboard.png)
 ---
 
 ## Author
