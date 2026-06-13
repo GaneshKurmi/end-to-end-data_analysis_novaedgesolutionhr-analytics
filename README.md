@@ -210,6 +210,16 @@ Examples include:
 
 The original attendance dataset contains approximately 182,000 records. To keep the repository lightweight, a representative sample dataset is provided. All SQL analysis and Power BI dashboards were developed using the complete dataset.
 
+## Dashboard Preview
+
+### Executive HR Overview
+![Executive Dashboard](Dashboard%20Screenshots/Executive_Dashboard.png)
+
+### Attrition Dashboard
+![Attrition Dashboard](Dashboard%20Screenshots/Attrition_Dashboard.png)
+
+### Compensation Dashboard
+![Compensation Dashboard](Dashboard%20Screenshots/Compensation_Dashboard.png)
 ---
 
 ## Author
